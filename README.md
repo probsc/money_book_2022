@@ -33,3 +33,7 @@
 
 - 「日付」「分類」「タイトル」「金額」の登録、編集が可能
 - 編集時は削除が可能
+
+## スクリーンショット
+![screnshot](https://user-images.githubusercontent.com/1849280/175841651-dd5a88f9-054b-45a6-affa-2b163e334a41.png)
+![screnshot_dark](https://user-images.githubusercontent.com/1849280/175841656-eaeacbfb-2ec1-4c00-a0eb-db3f5eedc531.png)

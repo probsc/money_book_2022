@@ -24,6 +24,7 @@ class AppDrawer extends StatelessWidget {
     // タイトルテキストのテーマ ※ダークテーマ対応のために動的に取得
     final titleStyle = Theme.of(context).textTheme.headline6?.copyWith(
           color: Colors.white,
+          fontSize: 20,
         );
 
     return SizedBox(

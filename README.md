@@ -4,11 +4,11 @@
 
 ## 環境
 
-- Dart 3.0.3
-- Flutter 2.17.5
+- Dart 2.17.6
+- Flutter 3.0.5
 - Plugins
     - Dart 212.5744 JetBrains
-    - Flutter 68.1.2 flutter.dev
+    - Flutter 69.0.2 flutter.dev
 
 ## ライブラリ
 

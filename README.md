@@ -13,13 +13,15 @@
 ## ライブラリ
 
 - [cupertino_icons: ^1.0.5](https://pub.dev/packages/cupertino_icons)
-- [dropdown_button2: ^1.6.2](https://pub.dev/packages/dropdown_button2)
+- [dropdown_button2: ^1.7.2](https://pub.dev/packages/dropdown_button2)
 - [google_fonts: ^3.0.1](https://pub.dev/packages/google_fonts)
 - [intl: ^0.17.0](https://pub.dev/packages/intl)
-- [package_info_plus: ^1.4.2](https://pub.dev/packages/package_info_plus)
+- [package_info_plus: ^1.4.3+1](https://pub.dev/packages/package_info_plus)
 - [path: ^1.8.1](https://pub.dev/packages/path/versions/1.8.1)
 - [path_provider: ^2.0.11](https://pub.dev/packages/path_provider)
-- [sqflite: ^2.0.2+1](https://pub.dev/packages/sqflite)
+- [sqflite: ^2.0.3+1](https://pub.dev/packages/sqflite)
+- [flutter_lints: ^2.0.1](https://pub.dev/packages/flutter_lints)
+- [flutter_launcher_icons: ^0.10.0](https://pub.dev/packages/flutter_launcher_icons)
 
 ## 機能
 
